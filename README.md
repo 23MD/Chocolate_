@@ -38,6 +38,12 @@ There are 3 tables in database namely Shipments table, Product table and Salespe
 |9|	Shipment Details for High Value Products	|List all shipment details where the product cost is above a certain threshold.|	Product Cost, Shipment Details|	Focus on high-value products to ensure quality and manage risks.|
 |10|	Salesperson Contribution to Team Sales|	Calculate the percentage contribution of each salesperson to their respective team’s total sales.|	Salesperson, Sales Team, Sales|	Evaluate individual contributions and align incentives accordingly.|
 
+## Technology Stack
+- **Power Bi** : Interactive Sales Analysis Dashboard made using Power BI. [Here](https://github.com/23MD/Chocolate_Sales_Analysis/blob/a39d6758c8292bf130e8f6cff68269fda722a21c/Chocolate%20Sales%20Data%20Analysis.pbix)
+- **MySQL Server** : Database server on local machine.
+- **SQL Queries** :  Data Analysis using SQL queries.
+- **Jupyter Notebook** : SQL queries executed in jupyter notebook. [Here](https://github.com/23MD/Chocolate_Sales_Analysis/blob/a39d6758c8292bf130e8f6cff68269fda722a21c/Divine_Chocolate_sales_analysis.ipynb)
+
 ## Contact Information
 - **LinkedIn**: [Mihir Damania](https://www.linkedin.com/in/mihirdamania/)
 - **Email**: [mihir.d1234@gmail.com](mailto:mihir.d1234@gmail.com)
