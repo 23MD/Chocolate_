@@ -37,3 +37,7 @@ There are 3 tables in database namely Shipments table, Product table and Salespe
 |8|	Team-wise Sales Performance|	Compare total sales performance of different sales teams.|	Sales Team, Sales|	Assess team performance and provide targeted support or training.|
 |9|	Shipment Details for High Value Products	|List all shipment details where the product cost is above a certain threshold.|	Product Cost, Shipment Details|	Focus on high-value products to ensure quality and manage risks.|
 |10|	Salesperson Contribution to Team Sales|	Calculate the percentage contribution of each salesperson to their respective team’s total sales.|	Salesperson, Sales Team, Sales|	Evaluate individual contributions and align incentives accordingly.|
+
+## Contact Information
+- **LinkedIn**: [Mihir Damania](https://www.linkedin.com/in/mihirdamania/)
+- **Email**: [mihir.d1234@gmail.com](mailto:mihir.d1234@gmail.com)
