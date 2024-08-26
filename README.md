@@ -2,14 +2,14 @@
 ![Power BI dashboard](https://github.com/23MD/Chocolate_Sales_Analysis/blob/5826a80c87d6e0bb1b50e64a2fce3a81828d38e0/Dashboard_SS.PNG)
 
 ## Introduction
-Welcome to the Devine Chocolates Data Analytics Portfolio Project. This project showcases my proficiency in data analytics by leveraging Power BI for data visualization and MySQL for data management. The primary aim is to provide actionable insights into the sales and operational performance of Devine Chocolates, a hypothetical company dealing in premium chocolates. This portfolio project involves extracting, transforming, and analyzing data using SQL queries executed in a Jupyter Notebook environment and visualizing the findings through a comprehensive Power BI dashboard.
+Welcome to the Divine Chocolates Data Analytics Portfolio Project. This project showcases my proficiency in data analytics by leveraging Power BI for data visualization and MySQL for data management. The primary aim is to provide actionable insights into the sales and operational performance of Divine Chocolates, a hypothetical company dealing in premium chocolates. This portfolio project involves extracting, transforming, and analyzing data using SQL queries executed in a Jupyter Notebook environment and visualizing the findings through a comprehensive Power BI dashboard.
 
 ## Objective
 The objective of this portfolio project is to demonstrate my capability in handling real-world data analytics tasks by:
 - Extracting and manipulating data from a MySQL database.
 - Performing complex SQL queries to answer critical business questions.
 - Creating insightful visualizations using Power BI to support decision-making processes.
-- Providing a detailed analysis of sales performance, product profitability, team effectiveness, and market trends for Devine Chocolates.
+- Providing a detailed analysis of sales performance, product profitability, team effectiveness, and market trends for Divine Chocolates.
 
 ## About Dataset
 Database created in mysql and accessing database from jupyter notebook using mysql.connector library.
